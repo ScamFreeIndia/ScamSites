@@ -30,7 +30,6 @@ We welcome contributions from everyone. To contribute:
 
 Please use the following format when reporting a scam website:
 
-```plaintext
 - **Website URL**: http://example-scam-website.com
 - **Description**: Brief description of the scam (e.g., phishing site, fake online store, etc.)
 - **Date Discovered**: YYYY-MM-DD
